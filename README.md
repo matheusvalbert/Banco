@@ -1,5 +1,3 @@
-# Banco
-
 # Introdução
 ```
 Este projeto foi desenvolvido no quarto semestre na disciplina de Paradigmas de Programação B.
